@@ -1,13 +1,13 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Computer Science Engineer
+  uni: Télécom Physique Strasbourg
+  place: Illkirch-Graffenstaden, France
+  url: https://www.telecom-physique.fr/en/school/about-us/
+  year: 2012 &mdash; 2016
+  summary: Engineer degree with a strong image processing flavor
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Higher school preparatory classes
+  uni: Lycée Lalande
+  place: Bourg-en-Bresse, France
+  year: 2009 &mdash; 2012
+  summary: Scientific cram school with to pass the entrance examinations of engineering school

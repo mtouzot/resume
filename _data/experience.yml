@@ -1,19 +1,35 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Parifex
+  url: https://www.parifex.com/en/
+  position: R&D Engineer
+  place: Viroflay, France
+  duration: June, 2019 &mdash; Present
+  summary: <p>Parifex is working in the speed control systems, improving the field with Lidar 3D technology.</p><p>First, part of the IVVQ team from June 2019 to December 2020, my job was to ensure the developers team, the field tests and customer requirements were met. Then in December 2020, I joined the innovation team to develop data and image processing algorithms in Python.</p><p>Since March 2024, I took the lead a 5 persons team working on automatic number plate recognition.</p>
 
+- company: Intitek
+  url: https://astekgroup.fr/?lang=en
+  position: Junior Software Engineer
+  duration: Mar. 2017 &mdash; June 2019
+  summary: <p>Before being acquired by Astek, Intitek was an engineering and technology consulting company offering engineers to all types of companies throughout France and abroad.</p><p>As a junior software engineer, I have had the opportunity to carry out the experiences at Solystic, Michelin then Valeo.<p>
+  working_for:
+  - company: Valeo Vision
+    url: https://www.valeo.com/en/
+    position: Consultant Engineer
+    place: Bobigny, France
+    duration: Feb. 2019 &mdash; June 2019
+    summary: Working with optical engineers, I had to develop an application in C++ with an Qt HMI to help them display and analyse their experiments on automotive optics.
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+  - company: Michelin
+    url: https://www.michelin.com/en/
+    position: Consultant Engineer
+    place: Clermont-Ferrand, France
+    duration: Feb. 2018 &mdash; Feb. 2019
+    summary: Part of the scientific computing team, various teams at Ladoux (one of Michelin Research Center) were asking us to develop applications (in C++ and Qt) in order to help them in their experiments (generating Excel tests rapports, displaying graphs, querying databases, etc...).
+
+  - company: Solystic
+    url: https://www.solystic.com/
+    position: Consultant Engineer
+    place: Bagneux, France
+    duration: Mar. 2017 &mdash; Nov. 2017
+    summary: <p>Solystic provides solutions about sorting automation and distribution of mail and parcels.</p><p>Working under the supervision of the Research and Development responsable, we developed an identification algorithm in C to sort small parcels (mainly coming from low cost e-commerce services).</p>
