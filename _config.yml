@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Martin TOUZOT"
-resume_title:                   "Computer science engineer"
+resume_title:                   "Computer Science engineer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "martin.touzot@gmail.com"
@@ -23,7 +23,7 @@ resume_contact_address:         ""
 resume_header_contact_info:     "32 yo • martin.touzot@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Working as an computer science engineer in industrial companies, I aim to use vision and perception to improve human to computer interactions.</p>"
+resume_header_intro: "<p>Working as an computer science engineer in industrial companies, I aim to use image processing to improve computer to human interactions.</p><p>Blending mathematics to sight saves long speeches.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
