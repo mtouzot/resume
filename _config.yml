@@ -45,13 +45,13 @@ resume_section_interests:       true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/mtouzot"
+resume_github_url:            "https://github.com/mtouzot"
   # resume_twitter_url:           ""
   # resume_dribbble_url:          ""
   # resume_facebook_url:          ""
-  resume_linkedin_url:          "https://www.linkedin.com/in/martintouzot/"
+resume_linkedin_url:          "https://www.linkedin.com/in/martintouzot/"
   # resume_instagram_url:         ""
-  resume_website_url:           "https://mtouzot.github.io"
+resume_website_url:           "https://mtouzot.github.io"
   # resume_medium_url:            ""
 resume_print_social_links:      true
 
