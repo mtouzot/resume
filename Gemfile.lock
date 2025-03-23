@@ -234,7 +234,7 @@ GEM
       jekyll-seo-tag (~> 2.1)
     minitest (5.25.1)
     multipart-post (2.1.1)
-    nokogiri (1.18.3)
+    nokogiri (1.18.4)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     octokit (4.22.0)
@@ -267,6 +267,7 @@ GEM
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
     unicode-display_width (1.7.0)
+    webrick (1.9.1)
     zeitwerk (2.6.18)
 
 PLATFORMS
@@ -275,6 +276,8 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  rexml
+  webrick
 
 BUNDLED WITH
    2.1.4
