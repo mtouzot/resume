@@ -14,13 +14,13 @@ resume_name:                    "Martin TOUZOT"
 resume_title:                   "Computer Science engineer"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "martin.touzot@gmail.com"
+resume_contact_email:           "mtouzot@proton.me"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       ""
 resume_contact_address:         ""
 
-resume_header_contact_info:     "33 yo • martin.touzot@gmail.com"
+resume_header_contact_info:     "33 yo • mtouzot@proton.me"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Working as an computer science engineer in industrial companies, I aim to use image processing to improve computer to human interactions.</p><p>Blending mathematics to sight saves long speeches.</p>"
